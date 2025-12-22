@@ -59,7 +59,7 @@ This application goes beyond prediction by adding **Explainable AI** to answer t
 * Stratified train-test split
 * 5-fold cross-validation
 
-### ✅ Advanced Explainability (**Your Key Addition**)
+### ✅ Advanced Explainability
 
 * **Top Risk Drivers Identification**
 * **Direction of impact (↑ increases / ↓ reduces risk)**
