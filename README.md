@@ -229,7 +229,6 @@ Hospital-Readmission-Penalty-Predictor/
 ## 🔮 Future Enhancements
 
 * SHAP-based explainability comparison
-* PDF / CSV report export
 * Time-series trend analysis
 * Hospital clustering
 * User authentication
