@@ -85,7 +85,7 @@ Example explanation shown in app:
 
 ---
 
-## 🧠 Explainable AI – Risk Driver Engine (Your Contribution)
+## 🧠 Explainable AI – Risk Driver Engine 
 
 Unlike standard ML dashboards, this app **explicitly explains penalty risk** using **CMS-aligned rules**.
 
@@ -155,7 +155,7 @@ This makes the model:
 * **Multi-Model Consensus**
 * Risk probability & confidence
 * Visual risk gauge
-* **Explainable Risk Drivers (Your addition)**
+* **Explainable Risk Drivers **
 
 ---
 
