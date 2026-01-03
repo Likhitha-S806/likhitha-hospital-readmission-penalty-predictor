@@ -16,7 +16,7 @@ st.set_page_config(page_title="Hospital Readmission Risk Intelligence",
                    layout="wide")
 
 # ===========================
-# PREMIUM UI CSS (screenshot style)
+# PREMIUM UI CSS 
 # ===========================
 
 st.markdown("""
@@ -130,7 +130,7 @@ MODELS = {
 }
 
 # ===========================
-# UI HEADER (like screenshot)
+# UI HEADER 
 # ===========================
 
 st.markdown("""<div class='big-header'>
@@ -332,3 +332,4 @@ st.markdown(
     f"<div class='mitigation-box'>{strategy}</div>",
     unsafe_allow_html=True
 )
+
